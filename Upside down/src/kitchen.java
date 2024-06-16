@@ -33,7 +33,7 @@ public class kitchen extends JFrame {
     private void initializePanels() {
         // First panel with introductory text
         panel1 = createTextPanel(
-                "You chose to go to the kitchen. After all, you are hungry and it is always a good idea to start your day off with breakfast. " +
+                "You WANT to chose to go to the kitchen. After all, you are hungry and it is always a good idea to start your day off with breakfast. " +
                 "As you head to your mediocre kitchen and search the refrigerator and cupboards, you find that you only have some plain bread and marmalade left. " +
                 "You are going to have to go shopping after this. First things first, you make yourself a boring old sandwich with the bread and the marmalade. " +
                 "The bread is a little stale but the marmalade makes it feel less dry.\n\n+ 3 hunger\nYour hunger is now 7/10",
